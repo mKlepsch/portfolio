@@ -12,6 +12,7 @@ Contact form that allows potential employers to reach out to me directly
 Technologies Used
 
 - Bootstrap: A popular front-end framework for building responsive websites
+- Font awesome: A popular Library of Icons 
 - AOS JavaScript Library: A lightweight library for animating elements as they appear on the screen
 - Custom CSS: Custom styles that enhance the website's visual appeal and usability
 # How to Use
